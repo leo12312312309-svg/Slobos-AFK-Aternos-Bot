@@ -1,12 +1,14 @@
+
 {
   "name": "minecraft-simple-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
+    "debug": "^4.4.1",
     "mineflayer": "^4.34.0"
   }
 }
